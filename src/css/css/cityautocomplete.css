@@ -1,0 +1,46 @@
+﻿/* cityAutocomplete.css */
+
+.suggestion-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.suggestion-list li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.suggestion-list li:hover {
+    background-color: #f0f0f0;
+}
+
+.drop-search {
+    background: #ffffff;
+    padding: 10px;
+    position: absolute;
+    border: 1px solid #b5b5b5;
+    z-index: 1000;
+    border-radius: 5px;
+    width: -webkit-fill-available;
+}
+
+.select-arrow {
+    position: relative;    
+}
+
+.select-arrow .form-control {
+cursor: pointer;
+}
+
+    .select-arrow .fa-caret-down {
+        position: absolute;
+        right: 4px;
+        top: 28px;
+        font-size: 20px;
+        cursor: pointer;
+        padding: 10px;
+    }
+ 
