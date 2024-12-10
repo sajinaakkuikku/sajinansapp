@@ -3,12 +3,13 @@ import React, { useState, useEffect } from 'react';
 function App() {
     const [data, setDataa] = useState([]);
     const [loading, setLoading] = useState(true);
-    const [isAppVisible, setIsAppVisible] = useState(true);
-    const handleMenuClick = (menuItem) => {
-        if (menuItem === 'Country List') {
-            setIsAppVisible(false); // Hide App
-        }
-    };
+   // const [isAppVisible, setIsAppVisible] = useState(true);
+   // const handleMenuClick = (menuItem) => {
+        //if (menuItem === 'Country List') {
+
+            //setIsAppVisible(false); // Hide App
+       // }
+  //  };
     useEffect(() => {
         async function fetchData() {
             try {
