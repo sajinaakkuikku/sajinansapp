@@ -18,6 +18,7 @@ function Main() {
         if (menuItem === 'Country List') {
             setIsAppVisible(true); // Show App
             setIsCatVisible(false); 
+
         }
         else {
             setIsAppVisible(false); // Show App
