@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sajinansapp/static/css/main.126aaf7f.css",
+    "main.js": "/sajinansapp/static/js/main.5df3b8aa.js",
+    "static/js/453.430cf63b.chunk.js": "/sajinansapp/static/js/453.430cf63b.chunk.js",
+    "static/media/login-bg.jpg": "/sajinansapp/static/media/login-bg.f74a98e2751d91a77285.jpg",
+    "static/media/icomoon.svg?5vz3ug": "/sajinansapp/static/media/icomoon.592f1bac4afe90e99d89.svg",
+    "static/media/loader.gif": "/sajinansapp/static/media/loader.9f9a19b44e026ea564ee.gif",
+    "static/media/icomoon.eot?5vz3ug": "/sajinansapp/static/media/icomoon.ac869a00152f91338e18.eot",
+    "static/media/icomoon.woff?5vz3ug": "/sajinansapp/static/media/icomoon.932155129c04dc12b3c7.woff",
+    "static/media/icomoon.ttf?5vz3ug": "/sajinansapp/static/media/icomoon.043b3d7ad8b54740fef8.ttf",
+    "static/media/crew.svg": "/sajinansapp/static/media/crew.534b8e6cd29bd99afb86.svg",
+    "index.html": "/sajinansapp/index.html",
+    "static/media/arrow.svg": "/sajinansapp/static/media/arrow.242fc7a21a16acdac31e.svg",
+    "main.126aaf7f.css.map": "/sajinansapp/static/css/main.126aaf7f.css.map",
+    "main.5df3b8aa.js.map": "/sajinansapp/static/js/main.5df3b8aa.js.map",
+    "453.430cf63b.chunk.js.map": "/sajinansapp/static/js/453.430cf63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126aaf7f.css",
+    "static/js/main.5df3b8aa.js"
+  ]
+}
